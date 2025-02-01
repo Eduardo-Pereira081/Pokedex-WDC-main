@@ -28,7 +28,7 @@ Developed as part of the React module in the [Web Development Course](https://em
 
 ```bash
 # clone the repository
-$ git clone https://github.com/EmanuelQuintino/Pokedex.git
+$ git clone https://github.com/Eduardo-Pereira081/Pokedex-WDC-main.git
 
 # install dependencies
 $ npm install
